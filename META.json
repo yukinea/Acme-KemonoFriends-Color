@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Colorfull output.",
    "author" : [
       "@gmail.com>"
    ],
@@ -53,5 +53,8 @@
    },
    "release_status" : "unstable",
    "version" : "0.01",
+   "x_contributors" : [
+      "yukinea <yuki.931322@gmail.com>"
+   ],
    "x_static_install" : 1
 }

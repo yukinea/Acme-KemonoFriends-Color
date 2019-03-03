@@ -1,14 +1,18 @@
 # NAME
 
-Acme::KemonoFriends::Color - It's new $module
+Acme::KemonoFriends::Color - Colorfull output.
 
 # SYNOPSIS
 
     use Acme::KemonoFriends::Color;
+    use utf8;
+
+    # It is randomly displayed in the color of Kemono Friends.
+    printk('Welcome to ようこそジャパリパーク!');
 
 # DESCRIPTION
 
-Acme::KemonoFriends::Color is ...
+Kemono Friends is one of the most famous Japanese TV animation. Acme::KemonoFriends::Color provides colorfull output like Kemono Friends.
 
 # LICENSE
 
