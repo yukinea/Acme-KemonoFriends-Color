@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/yukinea/Acme-KemonoFriends-Color/issues"
+      },
+      "homepage" : "https://github.com/yukinea/Acme-KemonoFriends-Color",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/yukinea/Acme-KemonoFriends-Color.git",
+         "web" : "https://github.com/yukinea/Acme-KemonoFriends-Color"
+      }
+   },
    "version" : "0.01",
    "x_contributors" : [
       "yukinea <yuki.931322@gmail.com>"
