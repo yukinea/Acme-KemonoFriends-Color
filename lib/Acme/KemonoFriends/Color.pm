@@ -58,6 +58,8 @@ Acme::KemonoFriends::Color - Colorfull output.
 
 Kemono Friends is one of the most famous Japanese TV animation. Acme::KemonoFriends::Color provides colorfull output like Kemono Friends.
 
+Please use a terminal compatible with 256 colors
+
 =head1 LICENSE
 
 Copyright (C) yukinea.
